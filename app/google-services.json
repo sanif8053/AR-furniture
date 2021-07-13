@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731257185752",
+    "firebase_url": "https://foodcenter-d63fe.firebaseio.com",
+    "project_id": "foodcenter-d63fe",
+    "storage_bucket": "foodcenter-d63fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731257185752:android:9849618551dc9695b83ead",
+        "android_client_info": {
+          "package_name": "com.example.foodcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731257185752-rqcnbh0bb97190k9kjd87rv9n2efdt3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodcenter",
+            "certificate_hash": "09801ba3352518954a44069516eeaef498d3480a"
+          }
+        },
+        {
+          "client_id": "731257185752-3hl6o97eqq87sie0b3j9rmsjgep09h8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0RPzy696OZx6velcDfgqxMf7gakcEEM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731257185752-3hl6o97eqq87sie0b3j9rmsjgep09h8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
